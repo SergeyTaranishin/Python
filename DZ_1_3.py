@@ -1,0 +1,5 @@
+n = (input('Введите целое число N: '))
+nn = int(n + n)
+nnn = int(n + n + n)
+n = int(n)
+print('Сумма (n+nn+nnn) =', n + nn + nnn)
